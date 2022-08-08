@@ -31,5 +31,5 @@ jobs:
         # Configuration to build and package
         # BUILD_CONFIGURATION: Release
         # API key to authenticate with NuGet server
-        # NUGET_KEY: ${{secrets.NUGET_API_KEY}}
+        NUGET_KEY: ${{secrets.NUGET_API_KEY}}
         INCLUDE_SYMBOLS: true
