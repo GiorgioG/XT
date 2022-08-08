@@ -6,8 +6,4 @@
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\XT.Core\XT.Core.csproj" />
-  </ItemGroup>
-
 </Project>

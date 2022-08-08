@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
@@ -6,8 +6,8 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Copyright>Copyright Giorgio Galante 2022. All Rights Reserved</Copyright>
       <Version>1.0.0</Version>
+      <Authors>Giorgio Galante</Authors>
+      <PackageLicenseExpression>MIT</PackageLicenseExpression>
+      <PackageProjectUrl>https://github.com/GiorgioG/XT</PackageProjectUrl>
   </PropertyGroup>
-
-
-
 </Project>
